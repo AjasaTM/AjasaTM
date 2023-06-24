@@ -1,4 +1,4 @@
-![technology-binary-number-programming-wallpaper-1600x480_68](https://th.bing.com/th/id/R.6fec154ac9839a0f25db705d31be8431?rik=6jO9g3WRqAi%2f4g&pid=ImgRaw&r=0)
+
 <h1 align="center">Hi 👋, I'm Sodiq Abiodun</h1>
 <h3 align="center">I'm passionate about data. Yeah, I love the thrill of making a good and informed decision. I'm curious about the possibilities of combining blockchain with analytics.</h3>
 
