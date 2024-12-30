@@ -8,7 +8,7 @@
   <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
   </p>
 
-- 🔭 I’m currently working on **AdventureWorks**
+- 🔭 I’m currently working on **My Portfolio**
 
 - 💬 Ask me about **T-SQL, Python, Power BI,**
 
