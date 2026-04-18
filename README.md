@@ -1,6 +1,6 @@
 # 👨‍💻 Sodiq Salaudeen | Securing the Cloud, One Packet at a Time
 
-📍 **Currently:** Network Support Engineer @ **Teknowledge** (Microsoft Azure Affiliate)  
+📍 **Currently:** Network Support Engineer @ **Teknowledge** (Microsoft Azure)  
 🎯 **Transitioning To:** Cybersecurity Analyst | SOC Analyst | Cloud Security Engineer  
 📫 **Contact:** https://www.linkedin.com/in/sodiq-salaudeen/ | Sodiqqabiodun@gmail.com
 
