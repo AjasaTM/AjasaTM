@@ -66,5 +66,4 @@ I'm actively seeking roles where I can merge my **Azure Admin/Networking** knowl
 ### 📫 Let's Connect
 *I'm open to roles in SOC Analysis, Cloud Security Engineering, and Vulnerability Management.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-URL)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](Your-THM-Profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sodiq-salaudeen/)
