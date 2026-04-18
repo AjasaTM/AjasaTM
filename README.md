@@ -1,27 +1,70 @@
+# 👨‍💻 Sodiq Salaudeen | Securing the Cloud, One Packet at a Time
 
-<h1 align="center">Hi 👋, I'm Sodiq Abiodun</h1>
-<h3 align="center">I'm passionate about data. Yeah, I love the thrill of making a good and informed decision. I'm curious about the possibilities of combining blockchain with analytics.</h3>
+📍 **Currently:** Network Support Engineer @ **Teknowledge** (Microsoft Azure Affiliate)  
+🎯 **Transitioning To:** Cybersecurity Analyst | SOC Analyst | Cloud Security Engineer  
+📫 **Contact:** https://www.linkedin.com/in/sodiq-salaudeen/ | Sodiqqabiodun@gmail.com
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackdagger007&label=Profile%20views&color=0e75b6&style=flat" alt="dtruth" /> </p>
- 
-<div style="display:flex">
-  <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-  </p>
+---
 
-- 🔭 I’m currently working on **My Portfolio**
+### 🛡️ The Bridge Between Infrastructure and Security
+I don't just want to find vulnerabilities; I want to understand the **Azure backbone** they run on. 
 
-- 💬 Ask me about **T-SQL, Python, Power BI,**
+Currently, I support enterprise **Microsoft Azure** cloud environments at Teknowledge, ensuring network connectivity and infrastructure stability. While my day job is keeping the cloud running, my nights are spent learning how to **ethically break it** and **defend it**.
 
-- 📫 How to reach me **Ajasatemi@gmail.com**
+I'm actively seeking roles where I can merge my **Azure Admin/Networking** knowledge with **Security Operations & Ethical Hacking** to become a Security Analyst.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/palgrave204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="palgrave204" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🧰 Technical Arsenal
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajasatm&show_icons=true&locale=en&layout=compact" alt="ajasatm" /></p>
+| **Cloud & Networking** | **Security Operations** | **Offensive Security** |
+| :--- | :--- | :--- |
+| ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) |
+| ![Azure Networking](https://img.shields.io/badge/Azure_Networking-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white) |
+| **Windows Server** / AD | **MITRE ATT&CK Framework** | **Nmap / Metasploit** |
+| **Azure Sentinel (SIEM)** | **Elastic Stack (ELK)** | **OWASP Top 10** |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajasatm&show_icons=true&locale=en" alt="ajasatm" /></p>
+---
+
+### 📂 Featured Projects: From Cloud Engineer to Cloud Defender
+
+*Here's where the story comes to life. These repos show I'm not just a ticket closer; I'm a builder and a hunter.*
+
+#### 🔵 Cloud Security & Azure Sentinel (SOC Simulation)
+**[Repo: Azure-SOC-Honeynet](Link)**
+*Applying Azure skills to a Security problem.*
+- Deployed a **vulnerable Windows VM** and a **Linux VM** in Azure (exposed to the internet).
+- Configured **Azure Sentinel (SIEM)** to ingest logs from the VMs and **Azure Network Security Groups**.
+- Used **KQL (Kusto Query Language)** to hunt for RDP brute force attacks and map attacker IPs to **GeoIP data**.
+- *Result:* A live map dashboard showing real-time attacks against cloud resources.
+
+#### 🔴 Ethical Hacking & Network Analysis (Home Lab)
+**[Repo: Active-Directory-Penetration-Testing](Link)**
+*Breaking into the systems I used to just support.*
+- Built an on-prem Active Directory lab in Hyper-V (Windows Server 2022, Win10 Clients).
+- Performed internal pentest using **BloodHound** and **Kerberoasting** attacks.
+- Detected those same attacks using **Sysmon** and **Elastic SIEM**.
+
+#### 🟢 Network Support Automation (Teknowledge Transferable Skill)
+**[Repo: Azure-Network-Automation-Tools](Link)**
+*Scripts that prove I solve problems efficiently.*
+- Python script to audit **Azure NSG Rules** for misconfigurations (e.g., port 3389 open to `0.0.0.0/0`).
+- PowerShell script to automate the bulk creation of Azure VNets and Subnets for client deployments.
+
+---
+
+### 📜 Certifications & Learning Path
+
+- ✅ **CompTIA CySa+**
+- ✅ **Microsoft Certified: Azure Security Engineer Associate (AZ-500)**
+- ✅ **Microsoft Certified: Cybersecurity Architect Expert (SC-100)**
+- ✅ **Fortinet Certified Associate in Cybersecurity**
+- ✅ **Certified Network Security Practitioner (The SecOps Group)**
+
+---
+
+### 📫 Let's Connect
+*I'm open to roles in SOC Analysis, Cloud Security Engineering, and Vulnerability Management.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-URL)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](Your-THM-Profile)
